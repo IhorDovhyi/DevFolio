@@ -1,0 +1,39 @@
+//font
+$basic-font: Rockwell,
+"Courier Bold",
+Courier,
+Georgia,
+Times,
+"Times New Roman",
+serif;
+//color
+$progress-color:rgba(0, 146, 22, 0.823);
+$black: #000000;
+$white: rgba(253, 253, 253, 0.72);
+$primary-color: rgb(252, 245, 255);
+$basic-color: rgba(171, 209, 174, 0.905);
+$attribute-color: rgb(248, 164, 86);
+$sprites-first-color:rgb(220, 109, 24);
+$sprites-second-color:rgba(21, 146, 40, 0.802);
+//Img
+$sprites-img:url(../Images/icon-sprites.jpg);
+$services-sprites: url(../Images/services-sprites.png);
+$top-background-img :url(../Images/mountain.jpg);
+$background-img: url(../Images/laptop.jpg);
+$merit-box-background-image-one: url(../Images/checked.png);
+$merit-box-background-image-two: url(../Images/work-agenda.png);
+$merit-box-background-image-three: url(../Images/group.png);
+$merit-box-background-image-four: url(../Images/premium-badge.png);
+$li-phone: url(../Images/smartphone.png);
+$li-home: url(../Images/home.png);
+$li-internet: url(../Images/internet.png);
+//media
+$screen-xs-min: 460px;
+$screen-xs-max: 575px;
+$screen-sm-min: 576px;
+$screen-sm-max: 767px;
+$screen-md-min: 768px;
+$screen-md-max: 915px;
+$screen-lg-min: 916px;
+$screen-lg-max: 1199px;
+$screen-elg-max: 1200px;
